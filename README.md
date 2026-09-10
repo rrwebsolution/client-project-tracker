@@ -40,7 +40,7 @@ client-project-tracker/
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rrwebsolution/client-project-tracker.git
 cd client-project-tracker
 ```
 
